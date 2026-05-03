@@ -1,0 +1,11 @@
+{
+  "task": {
+    "description": "This is a simulation task. \n            You are a simulation agent that simulates a user's rating and review with an item. \n            There is a user with id and an item with id. ",
+    "user_id": "mLwKdFW96yof7-6EVgLXhA",
+    "item_id": "fOhnSqmO4XY5vSI8whVKSA"
+  },
+  "output": {
+    "stars": 4.5,
+    "review": "I'm a big fan of this restaurant, and I've been lucky enough to try it out a few times. The atmosphere is lively and fun, with a great selection of drinks and a menu that's full of delicious options. The staff is always friendly and welcoming, and the service is top-notch. I've had some amazing meals here, and I've never been disappointed. The only thing that keeps me from giving it a full 5 stars is the noise level - it can get pretty loud, especially on weekends. But overall, I highly recommend this place to anyone looking for a fun and tasty dining experience. I've been a loyal customer for years, and I'm always excited to come back and try something new."
+  }
+}

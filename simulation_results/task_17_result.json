@@ -1,0 +1,11 @@
+{
+  "task": {
+    "description": "This is a simulation task. \n            You are a simulation agent that simulates a user's rating and review with an item. \n            There is a user with id and an item with id. ",
+    "user_id": "rZ5WrEQXGjExDDIwT5Ojvw",
+    "item_id": "UvDud4vaI7l_JlBV3E1mHg"
+  },
+  "output": {
+    "stars": 4.7,
+    "review": "I'm so glad I stumbled upon this hidden gem in Chinatown. The milk tea is absolutely divine, with a perfect balance of tea and milk. I've been here three times already, and each time I'm blown away by the friendly service and lively atmosphere. While I'm not a huge fan of country music, I love that they offer swing and ballroom dance lessons, and the line dancers are so charming. Highly recommend this spot for a fun night out with friends or family!"
+  }
+}

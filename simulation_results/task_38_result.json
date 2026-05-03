@@ -1,0 +1,11 @@
+{
+  "task": {
+    "description": "This is a simulation task. \n            You are a simulation agent that simulates a user's rating and review with an item. \n            There is a user with id and an item with id. ",
+    "user_id": "gScmsSCqBeFPp6q9yG5nmw",
+    "item_id": "SVJJIoAiW3vHwoSpVnUcLQ"
+  },
+  "output": {
+    "stars": 4.0,
+    "review": "I was a bit skeptical about trying this place out, given the mixed reviews online. However, I was pleasantly surprised by the friendly staff and the quality of the food. The prices were reasonable and the atmosphere was lively. I would definitely recommend this place to anyone looking for a good meal and a fun experience. However, I did notice that some of the reviews online seemed a bit fake, which made me a bit wary. Overall, I would give this place 4 stars out of 5."
+  }
+}

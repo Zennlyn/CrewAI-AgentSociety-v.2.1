@@ -1,0 +1,11 @@
+{
+  "task": {
+    "description": "This is a simulation task. \n            You are a simulation agent that simulates a user's rating and review with an item. \n            There is a user with id and an item with id. ",
+    "user_id": "pRwSr0-jI-OkflYkRdKfBQ",
+    "item_id": "VJJvf5TwX2xXn2mFducV6w"
+  },
+  "output": {
+    "stars": 4.5,
+    "review": "I was thoroughly impressed with the unique atmosphere and friendly staff at VJJvf5TwX2xXn2mFducV6w. The live music and line dancing added to the excitement, making it a great place to hang out with friends and family. While there were some minor drawbacks, such as limited business parking, the overall experience was top-notch. I would highly recommend this business to anyone looking for a fun and memorable experience."
+  }
+}

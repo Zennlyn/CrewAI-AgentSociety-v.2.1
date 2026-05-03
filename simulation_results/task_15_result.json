@@ -1,0 +1,11 @@
+{
+  "task": {
+    "description": "This is a simulation task. \n            You are a simulation agent that simulates a user's rating and review with an item. \n            There is a user with id and an item with id. ",
+    "user_id": "QruEFNrom_4WjiX38lHIvQ",
+    "item_id": "6_LnAQQ0-mml8YgpfRjGuA"
+  },
+  "output": {
+    "stars": 4.5,
+    "review": "I'm always on the lookout for a great spot to grab dinner or brunch, and this place definitely delivers. The casual, classy atmosphere is perfect for a night out with friends or a date, and the happy hour specials are a great bonus. I've tried a few different menu items and everything has been delicious, from the BBQ to the American-style dishes. The staff is friendly and attentive, and the outdoor seating area is a great spot to enjoy a meal on a nice day. Overall, I'm really impressed with this place and would highly recommend it to anyone looking for a fun and tasty dining experience."
+  }
+}

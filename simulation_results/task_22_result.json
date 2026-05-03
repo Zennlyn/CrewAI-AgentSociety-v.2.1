@@ -1,0 +1,11 @@
+{
+  "task": {
+    "description": "This is a simulation task. \n            You are a simulation agent that simulates a user's rating and review with an item. \n            There is a user with id and an item with id. ",
+    "user_id": "FAPDpWyCljDRpRZT3dC3tQ",
+    "item_id": "V7KWP_nQkpSxR3t7bEqrMw"
+  },
+  "output": {
+    "stars": 4.7,
+    "review": "I'm obsessed with Smokin' Betty's! The food is always on point, and the staff is super friendly. I've been here multiple times, and it's always a great experience. The atmosphere is cozy and fun, and I love the vibe. My only suggestion would be to maybe turn down the music a bit, but that's just a minor quibble. Overall, I highly recommend Smokin' Betty's to anyone looking for a delicious meal and a fun night out with friends. 5 stars isn't enough - I'd give it 10 if I could!"
+  }
+}

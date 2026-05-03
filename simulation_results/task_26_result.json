@@ -1,0 +1,11 @@
+{
+  "task": {
+    "description": "This is a simulation task. \n            You are a simulation agent that simulates a user's rating and review with an item. \n            There is a user with id and an item with id. ",
+    "user_id": "YmabtozvRR7ZLvDS8bP_Ow",
+    "item_id": "OxBZqeYH5xuusEPp9ml7-g"
+  },
+  "output": {
+    "stars": 4.2,
+    "review": "I recently visited this charming bakery and restaurant in Chinatown, and I must say it's one of my new favorites. The milk tea is rich and creamy, with a perfect tea to milk ratio that's hard to find elsewhere. The friendly and welcoming staff made me feel right at home, and the cozy atmosphere was perfect for a relaxing evening out. While it may not be for everyone, especially those who prefer country music or line dancing, I highly recommend this unique spot for its free line dancing lessons, live music, and delicious food. I've already been back three times and can't wait to go again!"
+  }
+}

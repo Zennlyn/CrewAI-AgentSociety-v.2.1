@@ -1,0 +1,11 @@
+{
+  "task": {
+    "description": "This is a simulation task. \n            You are a simulation agent that simulates a user's rating and review with an item. \n            There is a user with id and an item with id. ",
+    "user_id": "XzpJ4uHkxARCFQiZ9bffyg",
+    "item_id": "xVExbX_AWD3jlzXnKlvItQ"
+  },
+  "output": {
+    "stars": 4.2,
+    "review": "I had an absolute blast at this western-themed bar in Philadelphia! The free line dancing lessons and $1.00 drink specials were a great touch, and the live music added to the energetic atmosphere. The staff were super friendly and welcoming, making us feel right at home. My only suggestion would be to offer a quieter area for those who prefer a more low-key experience, but overall, this place is a must-visit for anyone looking for a fun and lively night out in the city."
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "task": {
+    "description": "This is a simulation task. \n            You are a simulation agent that simulates a user's rating and review with an item. \n            There is a user with id and an item with id. ",
+    "user_id": "bJ5FtCtZX3ZZacz2_2PJjA",
+    "item_id": "aQ2-kEwDra31zu0NCLpUsQ"
+  },
+  "output": {
+    "stars": 4.3,
+    "review": "I recently visited Sam's Club, a fashion store in Tampa, FL, and was impressed by the friendly staff and perfect tea-to-milk ratio of their milk tea. The store has a rating of 3.5 stars based on 14 reviews and is open from 7:00 AM to 8:00 PM on weekdays and 10:00 AM to 6:00 PM on weekends. The business accepts credit cards and has a parking lot. I would definitely recommend this place to anyone looking for a great shopping experience."
+  }
+}

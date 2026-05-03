@@ -1,0 +1,11 @@
+{
+  "task": {
+    "description": "This is a simulation task. \n            You are a simulation agent that simulates a user's rating and review with an item. \n            There is a user with id and an item with id. ",
+    "user_id": "FlXBpK_YZxLo27jcMdII1w",
+    "item_id": "muCelHtTlX5PrJd8JKkf_w"
+  },
+  "output": {
+    "stars": 4.8,
+    "review": "I've been to my fair share of unique venues, but this place takes the cake. The free line dancing lessons and $1.00 drink special on Wednesday nights are a fantastic touch. The live music and old America western ambiance create an immersive experience that's hard to find elsewhere. While I'm not a fan of country music, the club's variety of dance options and charming line dancers make up for it. The friendly services and rich, creamy milk tea are just the icing on the cake. I've been here three times already, and I'm always excited to come back. Kudos to the management for creating such a fun and welcoming atmosphere. Highly recommend!"
+  }
+}

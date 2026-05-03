@@ -1,0 +1,11 @@
+{
+  "task": {
+    "description": "This is a simulation task. \n            You are a simulation agent that simulates a user's rating and review with an item. \n            There is a user with id and an item with id. ",
+    "user_id": "baWLqajM0hJk4rVH_jEupA",
+    "item_id": "3lsE-1hRI526KHKbeytPcg"
+  },
+  "output": {
+    "stars": 4.8,
+    "review": "I'm so glad I stumbled upon this hidden gem! The milk tea is absolutely perfect, with a rich and creamy taste that's just right. The atmosphere is welcoming and friendly, with a great vibe that makes you feel right at home. I loved the free line dancing lessons and live music, it's a unique experience that's hard to find elsewhere. The staff is also super friendly and attentive, making sure you have everything you need. I've been to a lot of places like this, but this one really stands out. Highly recommend!"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "task": {
+    "description": "This is a simulation task. \n            You are a simulation agent that simulates a user's rating and review with an item. \n            There is a user with id and an item with id. ",
+    "user_id": "K81DSGPsflFdbyXFAytisQ",
+    "item_id": "xdaolPAeHkfIDNk395kbSw"
+  },
+  "output": {
+    "stars": 4.8,
+    "review": "I had an amazing experience at this restaurant! The food was absolutely delicious, with juicy burgers and flavorful drinks. The service was also top-notch, with friendly and attentive staff. The atmosphere was great, with a convenient location and reasonable prices. My only suggestion would be to add more seating and parking options, but overall, I would highly recommend this place to anyone looking for a great dining experience."
+  }
+}

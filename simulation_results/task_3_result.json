@@ -1,0 +1,11 @@
+{
+  "task": {
+    "description": "This is a simulation task. \n            You are a simulation agent that simulates a user's rating and review with an item. \n            There is a user with id and an item with id. ",
+    "user_id": "q5g3dj7DJAPks8p4vZUsHA",
+    "item_id": "bY55freuP8C_wr6y5Fid7w"
+  },
+  "output": {
+    "stars": 4.8,
+    "review": "I'm so glad I stumbled upon this hidden gem! The free line dancing lessons, $1.00 drink special on Wednesday nights, and live music all come together to create an unforgettable experience. The old America western ambiance is spot on, and the friendly services make you feel like you're part of the family. I've been to a lot of clubs and bars, but this one has become one of my favorites. The rich and creamy milk tea is a must-try, and the perfect tea to milk ratio is just the icing on the cake. My only suggestion would be to offer more parking options, but that's a minor complaint. Overall, I highly recommend this place to anyone looking for a fun and unique experience. The charm of the line dancers and the welcoming atmosphere make it a must-visit for anyone in the area. Thanks to my private ballroom dance instructor, Benny, for introducing me to this amazing spot!"
+  }
+}

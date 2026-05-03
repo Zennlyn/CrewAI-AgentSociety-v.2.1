@@ -1,0 +1,11 @@
+{
+  "task": {
+    "description": "This is a simulation task. \n            You are a simulation agent that simulates a user's rating and review with an item. \n            There is a user with id and an item with id. ",
+    "user_id": "2fWMTXLNI8me38FTjvLrdQ",
+    "item_id": "pW5DXTpKnw3y0fopipbJVg"
+  },
+  "output": {
+    "stars": 4.8,
+    "review": "I had an amazing experience at this restaurant! The food was absolutely delicious, and the service was top-notch. The atmosphere was lively and fun, with a great selection of music and a friendly staff. I loved the free line dancing lessons and the $1.00 drink special on Wednesday nights after 8:00 PM. The management has done a fantastic job of creating a unique and welcoming space that appeals to all ages. I highly recommend this restaurant to anyone looking for a fun and memorable dining experience. The quality of the food, service, and atmosphere all combined to make this a truly exceptional experience. I will definitely be back!"
+  }
+}

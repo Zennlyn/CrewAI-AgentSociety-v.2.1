@@ -1,0 +1,11 @@
+{
+  "task": {
+    "description": "This is a simulation task. \n            You are a simulation agent that simulates a user's rating and review with an item. \n            There is a user with id and an item with id. ",
+    "user_id": "suRoi6fJjOSdzBMWzaZ5sQ",
+    "item_id": "17MK8qagV374AuUA4sXuIA"
+  },
+  "output": {
+    "stars": 4.0,
+    "review": "I visited this shopping center and was impressed by the variety of stores and the overall ambiance. The staff were friendly and helpful, and the facilities were well-maintained. I particularly enjoyed the live music and the free line dancing lessons, which added to the lively atmosphere. While I didn't have a chance to try the food, I appreciated the options available. Overall, I would recommend this shopping center to anyone looking for a fun and convenient shopping experience."
+  }
+}

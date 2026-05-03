@@ -1,0 +1,11 @@
+{
+  "task": {
+    "description": "This is a simulation task. \n            You are a simulation agent that simulates a user's rating and review with an item. \n            There is a user with id and an item with id. ",
+    "user_id": "xoh7wpyeiv5Elkr2yxGQBA",
+    "item_id": "yb2vAoH3E-R11yWmnT570w"
+  },
+  "output": {
+    "stars": 4.0,
+    "review": "I've been to Taco Bus a few times and I have to say, the food is consistently good. The service is also friendly and attentive. My only complaint is that it can get busy and noisy during peak hours, but that's to be expected. I've had some issues with inconsistent quality of food and service in the past, but overall, I would highly recommend this place. The value for money is excellent and the variety of options is great. I've tried a few different dishes and they've all been delicious. I would definitely go back and try more things. The atmosphere is casual and trendy, which I appreciate. The staff is friendly and welcoming, which makes for a great dining experience. Overall, I'm very satisfied with my experiences at Taco Bus and I would recommend it to anyone looking for good Mexican food in the area."
+  }
+}

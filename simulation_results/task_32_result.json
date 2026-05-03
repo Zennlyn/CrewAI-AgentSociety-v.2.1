@@ -1,0 +1,11 @@
+{
+  "task": {
+    "description": "This is a simulation task. \n            You are a simulation agent that simulates a user's rating and review with an item. \n            There is a user with id and an item with id. ",
+    "user_id": "_BcWyKQL16ndpBdggh2kNA",
+    "item_id": "nIAbuktMEzVjT4P9pG89rQ"
+  },
+  "output": {
+    "stars": 4.2,
+    "review": "I recently visited this bar with a group of friends and had a fantastic time. The live music was great, and the staff were super friendly. We also enjoyed the happy hour specials and the outdoor seating area. However, I was a bit disappointed that they weren't open for lunch or brunch, and there was no breakfast or dessert options available. Overall, I would definitely recommend this place for a fun night out with friends, but maybe not for a family dinner or a romantic evening."
+  }
+}

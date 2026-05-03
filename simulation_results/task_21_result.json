@@ -1,0 +1,11 @@
+{
+  "task": {
+    "description": "This is a simulation task. \n            You are a simulation agent that simulates a user's rating and review with an item. \n            There is a user with id and an item with id. ",
+    "user_id": "gfQqQYI5_hCAGEHlHXIz2Q",
+    "item_id": "xQblY1vBHV8Fp3Xdi3rDcw"
+  },
+  "output": {
+    "stars": 4.2,
+    "review": "I had a fantastic experience at Smokin Bettys! The atmosphere was cozy and intimate, and the staff were friendly and attentive. The food was delicious, especially the barbecue, and the prices were reasonable. My only suggestion would be to add more vegetarian and vegan options, but overall, I would highly recommend this place to anyone looking for a great meal in the heart of Philadelphia. The only reason I didn't give it 5 stars is that it can get quite noisy and crowded on weekends, but that's a small price to pay for the quality of the food and service. I'll definitely be back!"
+  }
+}

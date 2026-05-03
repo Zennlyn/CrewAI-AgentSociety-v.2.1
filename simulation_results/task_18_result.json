@@ -1,0 +1,11 @@
+{
+  "task": {
+    "description": "This is a simulation task. \n            You are a simulation agent that simulates a user's rating and review with an item. \n            There is a user with id and an item with id. ",
+    "user_id": "CDxlgCoUoNRV3VMkYZrUuQ",
+    "item_id": "UdcLHHBRIxtelgbKBnhitA"
+  },
+  "output": {
+    "stars": 4.2,
+    "review": "I have never been to a club like this. Free line dancing lessons, $1.00 drink special on  Wednesday nights after 8:00 PM,  live music, old America  western ambiance, & oh, so friendly services. I was completely fascinated. The taste of the milk tea is rich and the tea to milk ratio is perfect, a perfect combination of flavors. I have been there three times already every time I am in town, I love to hang out there with friends and family. Kudos to the management of the club offering such a neat & fun place."
+  }
+}

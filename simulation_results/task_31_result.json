@@ -1,0 +1,11 @@
+{
+  "task": {
+    "description": "This is a simulation task. \n            You are a simulation agent that simulates a user's rating and review with an item. \n            There is a user with id and an item with id. ",
+    "user_id": "mfFgFfW8RfKFRaO9w6ImLA",
+    "item_id": "Nggy_QUDxaLlrcQAQf7GnQ"
+  },
+  "output": {
+    "stars": 4.0,
+    "review": "I had a great experience at Smokin Bettys, the atmosphere was lively and the service was friendly. The food was delicious, but not exceptional. I would definitely come back for the fun vibe and good food, but it's not a must-visit spot for me."
+  }
+}

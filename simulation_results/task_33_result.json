@@ -1,0 +1,11 @@
+{
+  "task": {
+    "description": "This is a simulation task. \n            You are a simulation agent that simulates a user's rating and review with an item. \n            There is a user with id and an item with id. ",
+    "user_id": "JyzLjUFEIW3epNlHI6Oa6Q",
+    "item_id": "ufHEFbsrBnVDAaUpz3vuPA"
+  },
+  "output": {
+    "stars": 4.5,
+    "review": "I've been to some great bakery places in Chinatown, but this one stands out as a favorite. The milk tea is only $2 and very creamy, with a rich taste and perfect tea to milk ratio. The atmosphere is friendly and welcoming, making it a great spot to hang out with friends and family."
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "task": {
+    "description": "This is a simulation task. \n            You are a simulation agent that simulates a user's rating and review with an item. \n            There is a user with id and an item with id. ",
+    "user_id": "Ul72z03eDConHqTi23Z63g",
+    "item_id": "X9e_btDPux6JGqqw8UF_Pg"
+  },
+  "output": {
+    "stars": 4.0,
+    "review": "I was pleasantly surprised by the flavors and presentation at X9e_btDPux6JGqqw8UF_Pg. While it's not the most innovative menu, the execution is spot on. The service was friendly and attentive, making for a pleasant dining experience. Overall, a solid choice for a casual night out."
+  }
+}

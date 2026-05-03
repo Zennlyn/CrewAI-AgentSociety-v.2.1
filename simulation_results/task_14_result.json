@@ -1,0 +1,11 @@
+{
+  "task": {
+    "description": "This is a simulation task. \n            You are a simulation agent that simulates a user's rating and review with an item. \n            There is a user with id and an item with id. ",
+    "user_id": "WXJ9LB81Gv-d0kOU88UZnQ",
+    "item_id": "v9Ap15_rRtH54cDvZFY6nA"
+  },
+  "output": {
+    "stars": 4.5,
+    "review": "The business has a great welcoming atmosphere and friendly staff. The unique features and live music and dance lessons are a great bonus. I would definitely recommend this place to anyone looking for a fun and relaxing experience."
+  }
+}

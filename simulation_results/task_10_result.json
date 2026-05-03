@@ -1,0 +1,11 @@
+{
+  "task": {
+    "description": "This is a simulation task. \n            You are a simulation agent that simulates a user's rating and review with an item. \n            There is a user with id and an item with id. ",
+    "user_id": "R-s0RjtnCRaeVW_dZ5DYbw",
+    "item_id": "wB1Tin0OW1JRpaKM-E3ZYA"
+  },
+  "output": {
+    "stars": 4.2,
+    "review": "I recently visited wB1Tin0OW1JRpaKM-E3ZYA in Tampa, FL, and was impressed by the unique offerings and friendly staff. While the long lines and high prices were a bit of a drawback, I appreciated the welcoming and cozy atmosphere. Overall, I would recommend this business to anyone looking for a fun and unique experience, but be aware of the potential drawbacks. I would give it 4 out of 5 stars, as the pros outweigh the cons for me. The quality of food, service, and atmosphere were all top-notch, and I would definitely consider visiting again in the future."
+  }
+}

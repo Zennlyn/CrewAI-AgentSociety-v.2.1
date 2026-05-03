@@ -1,0 +1,11 @@
+{
+  "task": {
+    "description": "This is a simulation task. \n            You are a simulation agent that simulates a user's rating and review with an item. \n            There is a user with id and an item with id. ",
+    "user_id": "QhzzVcCXetK2hCctHsMzmg",
+    "item_id": "3YqUe2FTCQr0pPVK8oCv6Q"
+  },
+  "output": {
+    "stars": 4.0,
+    "review": "I've been to this club a few times and it's always a great experience. The free line dancing lessons and $1.00 drink special on Wednesday nights are a big hit with me. The live music and old America western ambiance are really charming. The staff is friendly and the atmosphere is lively. I love to hang out there with friends and family. The only thing I'd like to see improved is the quality of the food, but overall it's a great spot to grab a drink and dance the night away."
+  }
+}

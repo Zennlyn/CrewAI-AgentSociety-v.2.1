@@ -1,0 +1,11 @@
+{
+  "task": {
+    "description": "This is a simulation task. \n            You are a simulation agent that simulates a user's rating and review with an item. \n            There is a user with id and an item with id. ",
+    "user_id": "04hS_dGfUZd_5iJYRdPHLw",
+    "item_id": "RZiKnkn-YXCn7QK038MocA"
+  },
+  "output": {
+    "stars": 4.5,
+    "review": "I had a wonderful experience at this bakery. The milk tea was refreshing and the live music was a great touch. The staff were friendly and welcoming, and I loved the club atmosphere. The only reason I didn't give it 5 stars is that the line dancing was a bit too energetic for my taste. Overall, I highly recommend this place for a fun and relaxing experience."
+  }
+}

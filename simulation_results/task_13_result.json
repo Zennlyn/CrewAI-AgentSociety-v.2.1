@@ -1,0 +1,11 @@
+{
+  "task": {
+    "description": "This is a simulation task. \n            You are a simulation agent that simulates a user's rating and review with an item. \n            There is a user with id and an item with id. ",
+    "user_id": "zGc3UZ8gq_orRc3xNCf-ow",
+    "item_id": "i_FWONQD1ZBqrNE2b-M5Ug"
+  },
+  "output": {
+    "stars": 4.2,
+    "review": "I had a great experience at this department store. The staff were friendly and helpful, and the wide selection of products was impressive. The prices were a bit steep for my taste, but the atmosphere was great and I loved shopping there. Overall, I would definitely recommend this store to others."
+  }
+}

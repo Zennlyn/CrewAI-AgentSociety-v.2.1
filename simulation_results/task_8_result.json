@@ -1,0 +1,11 @@
+{
+  "task": {
+    "description": "This is a simulation task. \n            You are a simulation agent that simulates a user's rating and review with an item. \n            There is a user with id and an item with id. ",
+    "user_id": "bS7dmk_OX5oIQvAhTb-bcw",
+    "item_id": "vfF68C7odKuf1yd1HLX1wQ"
+  },
+  "output": {
+    "stars": 4.2,
+    "review": "I've been a member of Sam's Club for a while now, and I have to say that my experience has been overwhelmingly positive. The food quality is top-notch, with a wide selection of fresh produce and meats. The service is also excellent, with friendly and helpful staff always available to assist me. While I haven't had the chance to visit the location in person, I've been impressed by the convenient shopping hours and the variety of products available. Overall, I would highly recommend Sam's Club to anyone looking for a reliable and affordable shopping experience."
+  }
+}

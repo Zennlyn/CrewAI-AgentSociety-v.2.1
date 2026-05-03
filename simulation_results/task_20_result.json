@@ -1,0 +1,11 @@
+{
+  "task": {
+    "description": "This is a simulation task. \n            You are a simulation agent that simulates a user's rating and review with an item. \n            There is a user with id and an item with id. ",
+    "user_id": "lGFROdyJ0U6biMsim-xScA",
+    "item_id": "SdZ9ldwNbAOCf_DeUMN4Ng"
+  },
+  "output": {
+    "stars": 4.5,
+    "review": "I'm absolutely loving my experience at this restaurant! The milk tea is delicious and creamy, with the perfect tea to milk ratio. The service is friendly and attentive, making me feel right at home. The atmosphere is lively and fun, with a great selection of live music and old America western ambiance. I especially love the free line dancing lessons on Wednesday nights after 8:00 PM, and the $1.00 drink special is a great bonus. Overall, I'm thoroughly enjoying my time here and can't wait to come back!"
+  }
+}

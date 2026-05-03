@@ -1,0 +1,11 @@
+{
+  "task": {
+    "description": "This is a simulation task. \n            You are a simulation agent that simulates a user's rating and review with an item. \n            There is a user with id and an item with id. ",
+    "user_id": "lgUKLRsqvhu4DbM9syzq_Q",
+    "item_id": "i6jA8vSHrP9LiUPHlqPVwA"
+  },
+  "output": {
+    "stars": 4.5,
+    "review": "I had a fantastic time at this bar in Philadelphia. The atmosphere was lively and fun, with a great selection of drinks and a wide variety of food options. The service was friendly and attentive, and the prices were very reasonable. I particularly enjoyed the free line dancing lessons and the $1.00 drink special on Wednesday nights. Overall, I would highly recommend this bar to anyone looking for a great night out in the city."
+  }
+}

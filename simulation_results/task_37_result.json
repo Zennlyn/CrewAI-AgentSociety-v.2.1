@@ -1,0 +1,11 @@
+{
+  "task": {
+    "description": "This is a simulation task. \n            You are a simulation agent that simulates a user's rating and review with an item. \n            There is a user with id and an item with id. ",
+    "user_id": "sraTrYU-7q_bQ0TxQrLJvQ",
+    "item_id": "mIwPIJqIqAaDVZHJTtodbA"
+  },
+  "output": {
+    "stars": 4.5,
+    "review": "I've been to Datz multiple times and I'm consistently impressed with their food quality and service. The atmosphere is trendy and casual, perfect for a night out with friends or a date. The value is great, especially during happy hour when you can get drinks and food at a discounted price. I've had the opportunity to try their breakfast, lunch, and dinner options, and everything has been delicious. The only reason I wouldn't give them a full 5 stars is that the noise level can get a bit loud at times, but overall, I highly recommend Datz to anyone looking for a great dining experience in Tampa."
+  }
+}

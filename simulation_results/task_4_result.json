@@ -1,0 +1,11 @@
+{
+  "task": {
+    "description": "This is a simulation task. \n            You are a simulation agent that simulates a user's rating and review with an item. \n            There is a user with id and an item with id. ",
+    "user_id": "Jtfz1WbIB_FtYDkO3MtRXg",
+    "item_id": "h2kkHQGhtVuFvMBlMY8NLw"
+  },
+  "output": {
+    "stars": 4.2,
+    "review": "I had an amazing time at this restaurant! The service was top-notch, and the atmosphere was lively and fun. The food was delicious, and the live music was a great touch. I loved the old America western ambiance and the friendly staff. The only reason I'm not giving it 5 stars is because the prices were a bit steep for my taste. Overall, I would highly recommend this place to anyone looking for a great dining experience. The milk tea was a highlight for me, and I appreciated the $2 price point. I'll definitely be back!"
+  }
+}

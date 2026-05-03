@@ -1,0 +1,11 @@
+{
+  "task": {
+    "description": "This is a simulation task. \n            You are a simulation agent that simulates a user's rating and review with an item. \n            There is a user with id and an item with id. ",
+    "user_id": "d0xjrf1CL0ollZNK5xewWg",
+    "item_id": "RZiKnkn-YXCn7QK038MocA"
+  },
+  "output": {
+    "stars": 4.2,
+    "review": "I recently visited RZiKnkn-YXCn7QK038MocA and was pleasantly surprised by the quality of service and food. The staff was friendly and attentive, making sure I had everything I needed throughout my meal. The atmosphere was lively and fun, with a great selection of music and decorations. While I did notice a few minor issues with the website, I was impressed by the company's honesty and integrity. Overall, I would highly recommend RZiKnkn-YXCn7QK038MocA to anyone looking for a great dining experience."
+  }
+}

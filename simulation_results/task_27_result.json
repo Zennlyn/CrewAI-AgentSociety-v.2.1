@@ -1,0 +1,11 @@
+{
+  "task": {
+    "description": "This is a simulation task. \n            You are a simulation agent that simulates a user's rating and review with an item. \n            There is a user with id and an item with id. ",
+    "user_id": "ddIzmMdt-5hfy2J3Ff5Utw",
+    "item_id": "OMT709IPPEwN91CAXpe9dw"
+  },
+  "output": {
+    "stars": 4.3,
+    "review": "I recently visited this business and was impressed by the wide selection of products at competitive prices. While I did notice that the store was a bit crowded and parking options were limited, the overall experience was well-regarded by customers. The positive reviews and high ratings from other customers suggest that this business is a great option for those looking for value. I would definitely consider returning in the future."
+  }
+}

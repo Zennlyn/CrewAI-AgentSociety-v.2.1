@@ -1,0 +1,11 @@
+{
+  "task": {
+    "description": "This is a simulation task. \n            You are a simulation agent that simulates a user's rating and review with an item. \n            There is a user with id and an item with id. ",
+    "user_id": "rTJ3EecGoQNbfFj7mqjDmw",
+    "item_id": "tmYa9OC8NE4ov2BoLyL2WQ"
+  },
+  "output": {
+    "stars": 4.5,
+    "review": "I recently visited this bakery in Chinatown and was blown away by the delicious food and excellent service. The milk tea was creamy and rich, and the pastries were freshly baked. I loved the convenient location and the friendly staff. My only suggestion would be to add more menu options, but overall, I would highly recommend this place to anyone looking for a great dining experience."
+  }
+}

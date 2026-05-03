@@ -1,0 +1,11 @@
+{
+  "task": {
+    "description": "This is a simulation task. \n            You are a simulation agent that simulates a user's rating and review with an item. \n            There is a user with id and an item with id. ",
+    "user_id": "wb-yY6b9A7QiuPFTrnTinQ",
+    "item_id": "Y5S_AUSW8EjswVf9JAi-0w"
+  },
+  "output": {
+    "stars": 4.3,
+    "review": "I recently visited this charming bakery, cafe, and restaurant in the heart of Chinatown. The moment I stepped inside, I was greeted with a warm and welcoming atmosphere, complete with live music and old America western ambiance. The staff were incredibly friendly and attentive, making me feel right at home. I opted for their signature milk tea, which was rich and creamy, with a perfect balance of sweetness. The portion size was generous, and the price was an absolute steal at $2 per cup. The only drawback was the limited seating capacity, which made it a bit crowded on weekends. However, the free line dancing lessons on Wednesday nights were a delightful surprise, and the staff's enthusiasm was infectious. Overall, I would highly recommend this hidden gem to anyone looking for a unique and delicious dining experience. The only reason I didn't give it a full 5 stars is that it can get a bit noisy, but that's a minor quibble in an otherwise exceptional establishment."
+  }
+}

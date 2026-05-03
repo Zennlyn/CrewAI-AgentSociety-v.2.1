@@ -1,0 +1,11 @@
+{
+  "task": {
+    "description": "This is a simulation task. \n            You are a simulation agent that simulates a user's rating and review with an item. \n            There is a user with id and an item with id. ",
+    "user_id": "rK8kLDiaKoIexHy3JzcVCA",
+    "item_id": "y04yvFFUW3KdwBOJTn6BGA"
+  },
+  "output": {
+    "stars": 4.2,
+    "review": "I recently visited y04yvFFUW3KdwBOJTn6BGA with a group of friends and had an absolute blast! The haunted houses and amusement parks were so much fun, and the variety of attractions and activities for all ages was impressive. The location was also super convenient, with easy access to public transportation. The only reason I didn't give it 5 stars is that it can get a bit crowded and noisy, especially on weekends and holidays. However, the prices were reasonable, and the food and drink options were plentiful. Overall, I would highly recommend y04yvFFUW3KdwBOJTn6BGA to anyone looking for a unique and exciting experience. The staff was friendly and helpful, and the atmosphere was electric. I'll definitely be back!"
+  }
+}
