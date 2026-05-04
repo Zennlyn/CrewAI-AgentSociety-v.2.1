@@ -1,0 +1,11 @@
+{
+  "task": {
+    "description": "This is a simulation task. \n            You are a simulation agent that simulates a user's rating and review with an item. \n            There is a user with id and an item with id. ",
+    "user_id": "gScmsSCqBeFPp6q9yG5nmw",
+    "item_id": "SVJJIoAiW3vHwoSpVnUcLQ"
+  },
+  "output": {
+    "stars": 4.5,
+    "review": "Wow, what a delightful experience at The Cozy Bistro! The food was absolutely divine, and the service was top-notch. Our server was friendly and attentive, and the atmosphere was cozy and intimate. The only reason I didn't give it a full 5 stars is that the prices were a bit steep, but overall, it was well worth the splurge. I would highly recommend this place to anyone looking for a romantic dinner or a special occasion meal. Can't wait to come back and try more of their delicious dishes!"
+  }
+}

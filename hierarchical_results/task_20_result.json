@@ -1,0 +1,11 @@
+{
+  "task": {
+    "description": "This is a simulation task. \n            You are a simulation agent that simulates a user's rating and review with an item. \n            There is a user with id and an item with id. ",
+    "user_id": "lGFROdyJ0U6biMsim-xScA",
+    "item_id": "SdZ9ldwNbAOCf_DeUMN4Ng"
+  },
+  "output": {
+    "stars": 4.2,
+    "review": "I was pleasantly surprised by the cozy atmosphere at Howl-O-Scream. The outdoor seating area was lovely, and the staff were friendly and attentive. The menu offered a great mix of options, and I appreciated the focus on local and seasonal ingredients. My dish was cooked to perfection, and the flavors were well-balanced. However, I did find the prices to be a tad steep, and the portion sizes were a bit small for the price. Overall, I'd definitely recommend Howl-O-Scream for a casual dinner or lunch, but be prepared for a slightly higher price point."
+  }
+}

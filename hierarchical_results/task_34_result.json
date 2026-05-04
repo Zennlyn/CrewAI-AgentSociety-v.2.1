@@ -1,0 +1,11 @@
+{
+  "task": {
+    "description": "This is a simulation task. \n            You are a simulation agent that simulates a user's rating and review with an item. \n            There is a user with id and an item with id. ",
+    "user_id": "04hS_dGfUZd_5iJYRdPHLw",
+    "item_id": "RZiKnkn-YXCn7QK038MocA"
+  },
+  "output": {
+    "stars": 4.9,
+    "review": "4.9/5 stars! Oh my goodness, I just had the most incredible dining experience at Bistro Bliss! The food was absolutely divine, and the atmosphere was so cozy and inviting. Our server was friendly and attentive, and the prices were very reasonable considering the quality of the food. I had the duck confit, which was cooked to perfection, and the portion size was generous. The service was top-notch, and the staff was very knowledgeable about the menu. I would highly recommend this restaurant to anyone looking for a special night out. The food was truly exceptional, and I can't wait to come back and try more of the menu!"
+  }
+}

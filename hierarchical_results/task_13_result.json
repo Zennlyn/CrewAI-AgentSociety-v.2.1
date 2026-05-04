@@ -1,0 +1,11 @@
+{
+  "task": {
+    "description": "This is a simulation task. \n            You are a simulation agent that simulates a user's rating and review with an item. \n            There is a user with id and an item with id. ",
+    "user_id": "zGc3UZ8gq_orRc3xNCf-ow",
+    "item_id": "i_FWONQD1ZBqrNE2b-M5Ug"
+  },
+  "output": {
+    "stars": 4.8,
+    "review": "I'm so impressed with this restaurant! The food is always top-notch, and the service is always friendly and attentive. I've been here multiple times, and each experience has been consistently excellent. The atmosphere is cozy and inviting, and the prices are very reasonable. I've recommended this place to all my friends and family, and I highly recommend it to anyone looking for a great dining experience. The only reason I didn't give it a full 5 stars is that the wait times can be a bit long on busy nights, but overall, this place is a gem!"
+  }
+}

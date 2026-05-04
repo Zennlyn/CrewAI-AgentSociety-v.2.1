@@ -62,7 +62,7 @@ class AgentSocietyServingFlow(Flow[InferenceState]):
         }
         
         # 啟動並執行 Crew AI 團隊
-        result = SimulationCrew().sequential_crew().kickoff(inputs=inputs)
+        result = SimulationCrew().hierarchical_crew().kickoff(inputs=inputs)
         
         # 使用多層 Regex 容錯解析 LLM 的回傳結果
         try:

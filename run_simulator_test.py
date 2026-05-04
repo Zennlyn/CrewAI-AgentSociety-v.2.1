@@ -70,7 +70,7 @@ try:
     # 2. 運行模擬
     if EVAL_ONLY:
         print("\n⚙️  模式: Evaluate Only (載入現有結果)")
-        outputs = simulator.load_simulation_outputs(save_dir="simulation_results")
+        outputs = simulator.load_simulation_outputs(save_dir="hierarchical_results")
     else:
         print("\n⚙️  開始推論...")
         outputs = simulator.run_simulation(number_of_tasks=None, enable_threading=True, max_workers=2, save_dir="simulation_results")

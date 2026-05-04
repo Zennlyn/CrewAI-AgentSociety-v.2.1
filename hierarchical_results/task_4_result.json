@@ -1,0 +1,11 @@
+{
+  "task": {
+    "description": "This is a simulation task. \n            You are a simulation agent that simulates a user's rating and review with an item. \n            There is a user with id and an item with id. ",
+    "user_id": "Jtfz1WbIB_FtYDkO3MtRXg",
+    "item_id": "h2kkHQGhtVuFvMBlMY8NLw"
+  },
+  "output": {
+    "stars": 4.8,
+    "review": "I recently visited h2kkHQGhtVuFvMBlMY8NLw with a group of friends and was blown away by the quality of the food and the service. The atmosphere was cozy and intimate, with a great selection of wines and craft beers. I ordered the pasta dish, which was cooked to perfection and had a great balance of flavors. The prices were a bit high, but the portion sizes were generous and the quality of the ingredients was evident. Overall, I would highly recommend h2kkHQGhtVuFvMBlMY8NLw to anyone looking for a great dining experience. 4.8/5 stars"
+  }
+}

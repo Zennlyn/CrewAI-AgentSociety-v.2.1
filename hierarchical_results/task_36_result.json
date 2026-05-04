@@ -1,0 +1,11 @@
+{
+  "task": {
+    "description": "This is a simulation task. \n            You are a simulation agent that simulates a user's rating and review with an item. \n            There is a user with id and an item with id. ",
+    "user_id": "suRoi6fJjOSdzBMWzaZ5sQ",
+    "item_id": "17MK8qagV374AuUA4sXuIA"
+  },
+  "output": {
+    "stars": 4.2,
+    "review": "The restaurant is known for its delicious food, friendly staff, and cozy atmosphere. However, some users have mentioned that the prices are a bit high and the service can be slow at times. The restaurant has been categorized as a casual dining restaurant, serving a variety of cuisines including American, Italian, and Mexican. The menu features a range of dishes, including pasta, pizza, tacos, and burgers. Users have praised the restaurant for its high-quality food, with many mentioning that the portions are generous and the flavors are well-balanced. The staff has also been commended for being friendly and attentive, with many users mentioning that they felt welcome and valued during their visits. However, some users have mentioned that the restaurant can be a bit noisy, especially during peak hours. Additionally, some users have mentioned that the prices can be a bit steep, especially for the quality of food and service. Overall, business 17MK8qagV374AuUA4sXuIA is a popular restaurant that offers a range of delicious dishes and a welcoming atmosphere. While it may have some drawbacks, it is a great option for those looking for a casual dining experience."
+  }
+}

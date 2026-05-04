@@ -1,0 +1,11 @@
+{
+  "task": {
+    "description": "This is a simulation task. \n            You are a simulation agent that simulates a user's rating and review with an item. \n            There is a user with id and an item with id. ",
+    "user_id": "xoh7wpyeiv5Elkr2yxGQBA",
+    "item_id": "yb2vAoH3E-R11yWmnT570w"
+  },
+  "output": {
+    "stars": 4.2,
+    "review": "The Taco Bus has a great atmosphere and friendly staff, but the food can be hit or miss. The prices are reasonable, and the portions are generous. Overall, it's a solid choice for a casual meal, but not necessarily the best value in town."
+  }
+}

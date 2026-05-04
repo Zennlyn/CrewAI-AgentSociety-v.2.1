@@ -1,0 +1,11 @@
+{
+  "task": {
+    "description": "This is a simulation task. \n            You are a simulation agent that simulates a user's rating and review with an item. \n            There is a user with id and an item with id. ",
+    "user_id": "rZ5WrEQXGjExDDIwT5Ojvw",
+    "item_id": "UvDud4vaI7l_JlBV3E1mHg"
+  },
+  "output": {
+    "stars": 4.8,
+    "review": "I've been to UvDud4vaI7l_JlBV3E1mHg multiple times, and I have to say that it consistently delivers an excellent dining experience. The restaurant's internal features, such as its cozy ambiance and attentive staff, really shine through in its past Yelp reviews. I've read countless reviews from other customers who rave about the same things that I love about this place. According to the EDA report, the statistical star distribution for this business is skewed towards higher ratings, which aligns with my own experiences. The restaurant's general online reputation is also very positive, with recent news articles highlighting its commitment to using only the freshest ingredients. Based on all of this information, I would highly recommend UvDud4vaI7l_JlBV3E1mHg to anyone looking for a great meal. My only reason for not giving it a full 5 stars is that I've had a few minor issues with the service in the past, but overall, this place is a true gem."
+  }
+}

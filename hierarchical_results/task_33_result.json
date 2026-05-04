@@ -1,0 +1,11 @@
+{
+  "task": {
+    "description": "This is a simulation task. \n            You are a simulation agent that simulates a user's rating and review with an item. \n            There is a user with id and an item with id. ",
+    "user_id": "JyzLjUFEIW3epNlHI6Oa6Q",
+    "item_id": "ufHEFbsrBnVDAaUpz3vuPA"
+  },
+  "output": {
+    "stars": 4.7,
+    "review": "Wow, what a game-changing dining experience! The modern fusion cuisine at ufHEFbsrBnVDAaUpz3vuPA was absolutely mind-blowing. The grilled salmon was cooked to perfection, and the pan-seared scallops were a highlight of the meal. The service was top-notch, and the atmosphere was trendy and inviting. I was blown away by the creativity and diversity of the menu options. My only suggestion would be to add a few more vegan options, but overall, I'm so impressed with this restaurant. I'll definitely be back and will recommend it to all my friends!"
+  }
+}

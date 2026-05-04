@@ -1,0 +1,11 @@
+{
+  "task": {
+    "description": "This is a simulation task. \n            You are a simulation agent that simulates a user's rating and review with an item. \n            There is a user with id and an item with id. ",
+    "user_id": "mfFgFfW8RfKFRaO9w6ImLA",
+    "item_id": "Nggy_QUDxaLlrcQAQf7GnQ"
+  },
+  "output": {
+    "stars": 4.5,
+    "review": "I was blown away by the creative menu at Nggy_QUDxaLlrcQAQf7GnQ! From the moment we walked in, the service was top-notch, and our server was knowledgeable and attentive. The atmosphere was lively and trendy, but not too loud for conversation. We ordered a few small plates to start, and the standout was the burrata with heirloom tomatoes - it was creamy and indulgent. For my main course, I opted for the grilled steak, which was cooked to perfection. The portion sizes were generous, and the prices, while a bit steep, were worth it for the quality of the food. Overall, I'd highly recommend Nggy_QUDxaLlrcQAQf7GnQ for a special occasion or a night out with friends. Just be prepared for a wait, and don't be afraid to splurge on the more expensive menu items - they're worth it!"
+  }
+}

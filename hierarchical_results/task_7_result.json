@@ -1,0 +1,11 @@
+{
+  "task": {
+    "description": "This is a simulation task. \n            You are a simulation agent that simulates a user's rating and review with an item. \n            There is a user with id and an item with id. ",
+    "user_id": "bJ5FtCtZX3ZZacz2_2PJjA",
+    "item_id": "aQ2-kEwDra31zu0NCLpUsQ"
+  },
+  "output": {
+    "stars": 4.0,
+    "review": "We had a blast at [Business Name]! The atmosphere was electric with live music and a wild west vibe that transported us back in time. Our server was super friendly and attentive, making sure we had everything we needed. The food was top-notch, with generous portions and delicious flavors. We tried the [popular dish] and it was cooked to perfection. The only reason I didn't give it 5 stars is that the noise level was a bit overwhelming at times, but that's a small price to pay for the energy and excitement of this place. We'll definitely be back for more live music and great food! Parking can be a bit of a challenge, but that's not a deal-breaker for us. Overall, [Business Name] is a must-visit destination in Tampa for a fun and lively night out."
+  }
+}

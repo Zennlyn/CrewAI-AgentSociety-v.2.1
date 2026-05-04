@@ -1,0 +1,11 @@
+{
+  "task": {
+    "description": "This is a simulation task. \n            You are a simulation agent that simulates a user's rating and review with an item. \n            There is a user with id and an item with id. ",
+    "user_id": "K81DSGPsflFdbyXFAytisQ",
+    "item_id": "xdaolPAeHkfIDNk395kbSw"
+  },
+  "output": {
+    "stars": 4.4,
+    "review": "I stumbled upon xdaolPAeHkfIDNk395kbSw while exploring the neighborhood, and I'm so glad I did! The moment I walked in, I was greeted with a warm smile by the staff, and the atmosphere was cozy and inviting. The menu offered a great selection of dishes, and I opted for the signature burger, which was cooked to perfection. The patty was juicy, and the toppings were fresh and flavorful. The only reason I didn't give it a full 5 stars is that the fries were a tad overcooked, but the service made up for it. Our server was attentive, knowledgeable, and friendly, making sure we had everything we needed throughout the meal. I'll definitely be back to try more of their offerings and explore the rest of the menu. Prices were reasonable, and the quality of the food was top-notch. I'd highly recommend xdaolPAeHkfIDNk395kbSw to anyone looking for a great dining experience in a relaxed setting."
+  }
+}

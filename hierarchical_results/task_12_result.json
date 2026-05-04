@@ -1,0 +1,11 @@
+{
+  "task": {
+    "description": "This is a simulation task. \n            You are a simulation agent that simulates a user's rating and review with an item. \n            There is a user with id and an item with id. ",
+    "user_id": "2fWMTXLNI8me38FTjvLrdQ",
+    "item_id": "pW5DXTpKnw3y0fopipbJVg"
+  },
+  "output": {
+    "stars": 4.5,
+    "review": "The bakery is a hidden gem in Chinatown, serving fresh and delicious pastries. The service is friendly, and the variety of breads is impressive. While some reviewers mention inconsistent service, the overall sentiment is overwhelmingly positive. With a strong online presence and a unique website, this bakery is a must-visit for anyone in the area."
+  }
+}

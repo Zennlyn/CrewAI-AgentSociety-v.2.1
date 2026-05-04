@@ -86,7 +86,7 @@ def create_rag_tool(json_path: str, collection_name: str, config: dict, name: st
 
     if collection_exists:
         print("================COLLECTION EXISTS==================")
-        tool = JSONSearchTool(collection_name=collection_name, config=config, max_tool_use=5)
+        tool = JSONSearchTool(collection_name=collection_name, config=config, max_tool_use=3)
         # CRITICAL: Force the Pydantic schema to hide json_path from the Agent, 
         # so it doesn't trigger validation errors or pass the path and trigger the 3-hour hash loop!
         tool.args_schema = FixedJSONSearchToolSchema
@@ -170,8 +170,8 @@ class SimulationCrew():
             config=self.agents_config['user_analyst'],
             tools=[user_rag_tool, review_rag_tool],
             llm=llm,
-            verbose=True,
-            max_iter=3,
+            #verbose=True,
+            max_iter=1,
         )
 
     @agent
@@ -180,8 +180,8 @@ class SimulationCrew():
             config=self.agents_config['item_analyst'],
             tools=[item_rag_tool, review_rag_tool],
             llm=llm,
-            verbose=True,
-            max_iter=3,
+            #verbose=True,
+            max_iter=1,
         )
 
     @agent
@@ -190,8 +190,8 @@ class SimulationCrew():
             config=self.agents_config["web_researcher"],
             tools=[web_search_tool],
             llm=llm,
-            verbose=True,
-            max_iter=3,
+            #verbose=True,
+            max_iter=1,
         )
 
     @agent
@@ -200,8 +200,8 @@ class SimulationCrew():
             config=self.agents_config["eda_specialist"],
             tools=[review_rag_tool],
             llm=llm,
-            verbose=True,
-            max_iter=3,
+            #verbose=True,
+            max_iter=1,
         )
 
     @agent
@@ -210,7 +210,7 @@ class SimulationCrew():
             config=self.agents_config['prediction_modeler'], # type: ignore[index]
             llm=llm,
             verbose=True,
-            max_iter=3,
+            max_iter=1,
         )
 
     @task
@@ -243,11 +243,20 @@ class SimulationCrew():
             config=self.tasks_config['predict_review_task'],
             output_file='report.json'
         )
+    
+    @agent
+    def manager_agent(self) -> Agent:
+        return Agent(
+            config=self.agents_config["manager_agent"],
+            llm=llm,
+            allow_delegation=True,
+            verbose=True,
+        )
 
     @crew
-    def sequential_crew(self) -> Crew:
+    def hierarchical_crew(self) -> Crew:
         """
-        Sequential Crew with Cascade Pattern
+        Hierarchical Crew
         """
         return Crew(
             agents=[self.user_analyst(),
@@ -256,7 +265,8 @@ class SimulationCrew():
                     self.eda_specialist(),
                     self.prediction_modeler()],
             tasks=self.tasks,
-            process=Process.sequential,
+            process=Process.hierarchical,
+            manager_agent=self.manager_agent(),
             knowledge_sources=[schema_knowledge],
             embedder={
                 "provider": "huggingface",
@@ -266,5 +276,4 @@ class SimulationCrew():
             },
             verbose=True,
             max_rpm=10
-            # tracing=True
         )

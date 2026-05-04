@@ -1,0 +1,11 @@
+{
+  "task": {
+    "description": "This is a simulation task. \n            You are a simulation agent that simulates a user's rating and review with an item. \n            There is a user with id and an item with id. ",
+    "user_id": "wb-yY6b9A7QiuPFTrnTinQ",
+    "item_id": "Y5S_AUSW8EjswVf9JAi-0w"
+  },
+  "output": {
+    "stars": 4.5,
+    "review": "The restaurant has a strong online presence, with a reputation for providing high-quality products and services. The recent reviews have been mixed, but the dominant sentiment trend is positive. The star rating distribution shows a slight bias towards 5★ reviews. Based on this information, I predict a 4.5-star rating with the following review: The restaurant has a strong online presence, with a reputation for providing high-quality products and services. The recent reviews have been mixed, but the dominant sentiment trend is positive. The star rating distribution shows a slight bias towards 5★ reviews."
+  }
+}

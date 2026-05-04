@@ -1,0 +1,11 @@
+{
+  "task": {
+    "description": "This is a simulation task. \n            You are a simulation agent that simulates a user's rating and review with an item. \n            There is a user with id and an item with id. ",
+    "user_id": "sraTrYU-7q_bQ0TxQrLJvQ",
+    "item_id": "mIwPIJqIqAaDVZHJTtodbA"
+  },
+  "output": {
+    "stars": 4.2,
+    "review": "The restaurant has a great atmosphere, but the service was a bit slow. The food was delicious, but the prices were a bit high. Overall, it was a good experience, but not perfect."
+  }
+}

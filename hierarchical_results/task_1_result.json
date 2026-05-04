@@ -1,0 +1,11 @@
+{
+  "task": {
+    "description": "This is a simulation task. \n            You are a simulation agent that simulates a user's rating and review with an item. \n            There is a user with id and an item with id. ",
+    "user_id": "mLwKdFW96yof7-6EVgLXhA",
+    "item_id": "fOhnSqmO4XY5vSI8whVKSA"
+  },
+  "output": {
+    "stars": 4.7,
+    "review": "The restaurant's unique atmosphere, exceptional service, and high-quality food make it a must-visit for foodies and adventurous eaters. While portion sizes may be a bit small, the overall experience is truly unforgettable. With a strong presence on social media and a loyal customer base, fOhnSqmO4XY5vSI8whVKSA is a top choice for special occasions and romantic evenings."
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "task": {
+    "description": "This is a simulation task. \n            You are a simulation agent that simulates a user's rating and review with an item. \n            There is a user with id and an item with id. ",
+    "user_id": "YmabtozvRR7ZLvDS8bP_Ow",
+    "item_id": "OxBZqeYH5xuusEPp9ml7-g"
+  },
+  "output": {
+    "stars": 4.5,
+    "review": "Business OxBZqeYH5xuusEPp9ml7-g is an American, Breakfast, and Brunch restaurant with a 4.5-star rating. It has a unique and eclectic atmosphere, friendly service, and high-quality food. The star rating distribution is relatively even, with a slight skew towards lower ratings (1★ and 2★). The dominant sentiment trend is positive, with many reviewers praising the business's unique atmosphere, friendly service, and high-quality food. I would predict that user YmabtozvRR7ZLvDS8bP_Ow would give a 4.5-star rating to business OxBZqeYH5xuusEPp9ml7-g. The review text is: I've been to a lot of restaurants in this city, but none have ever captured my heart like OxBZqeYH5xuusEPp9ml7-g. From the moment I walked in, I was struck by the sheer creativity and whimsy of the atmosphere - it's like stepping into a dream world. The decor is a masterpiece, with every detail carefully curated to transport you to a different era and place. But what really sets this place apart is the service - our server was an absolute delight, with a warm smile and a genuine interest in making sure we had an amazing experience. And then, of course, there's the food - which is simply sublime. I opted for the signature dish, and it was a revelation - the flavors were expertly balanced, the presentation was stunning, and the portion size was generous. I left feeling like I'd discovered a true treasure, and I couldn't wait to come back and explore more of the menu. If you're looking for a truly unforgettable dining experience, look no further than OxBZqeYH5xuusEPp9ml7-g - it's a game-changer."
+  }
+}

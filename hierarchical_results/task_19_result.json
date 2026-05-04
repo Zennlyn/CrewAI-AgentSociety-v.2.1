@@ -1,0 +1,11 @@
+{
+  "task": {
+    "description": "This is a simulation task. \n            You are a simulation agent that simulates a user's rating and review with an item. \n            There is a user with id and an item with id. ",
+    "user_id": "XzpJ4uHkxARCFQiZ9bffyg",
+    "item_id": "xVExbX_AWD3jlzXnKlvItQ"
+  },
+  "output": {
+    "stars": 4.5,
+    "review": "I'm so glad I stumbled upon xVExbX_AWD3jlzXnKlvItQ! The pasta dishes were cooked to perfection, and the pizza was crispy and flavorful. The service was attentive and knowledgeable, and the atmosphere was cozy and intimate. I loved the creative menu offerings and the high-quality ingredients used in the dishes. My only criticism is that the wait times were a bit long, but it was worth it for the quality of the food. Overall, I highly recommend xVExbX_AWD3jlzXnKlvItQ to anyone looking for a delicious Italian meal. 4.5/5 stars from me!"
+  }
+}

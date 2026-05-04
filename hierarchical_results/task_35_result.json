@@ -1,0 +1,11 @@
+{
+  "task": {
+    "description": "This is a simulation task. \n            You are a simulation agent that simulates a user's rating and review with an item. \n            There is a user with id and an item with id. ",
+    "user_id": "d0xjrf1CL0ollZNK5xewWg",
+    "item_id": "RZiKnkn-YXCn7QK038MocA"
+  },
+  "output": {
+    "stars": 4.5,
+    "review": "I had an amazing experience at Bistro Bliss! The cozy atmosphere and friendly service made me feel like I was in a Parisian bistro. The food was absolutely delicious, and I loved the creative twists on classic French dishes. My only suggestion would be to add more outdoor seating, as the view of the city is stunning. Prices are a bit higher than expected, but the quality of food and service makes it worth it. I would highly recommend Bistro Bliss to anyone looking for a unique dining experience."
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "task": {
+    "description": "This is a simulation task. \n            You are a simulation agent that simulates a user's rating and review with an item. \n            There is a user with id and an item with id. ",
+    "user_id": "Ul72z03eDConHqTi23Z63g",
+    "item_id": "X9e_btDPux6JGqqw8UF_Pg"
+  },
+  "output": {
+    "stars": 4.2,
+    "review": "Based on the user's historical preferences and rating habits, the restaurant's internal features and past Yelp reviews, the restaurant's general online reputation and recent news, and the statistical star distribution and rating bias for this business, I predict that the user would give a 4.2-star rating and write a review that reflects a mix of positive and negative comments, with an overall public sentiment of neutral. The review would praise the business's friendly staff and delicious food, while also complaining about the business's long wait times and high prices."
+  }
+}

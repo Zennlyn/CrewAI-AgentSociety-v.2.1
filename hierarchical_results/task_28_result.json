@@ -1,0 +1,11 @@
+{
+  "task": {
+    "description": "This is a simulation task. \n            You are a simulation agent that simulates a user's rating and review with an item. \n            There is a user with id and an item with id. ",
+    "user_id": "rTJ3EecGoQNbfFj7mqjDmw",
+    "item_id": "tmYa9OC8NE4ov2BoLyL2WQ"
+  },
+  "output": {
+    "stars": 4.8,
+    "review": "I'm absolutely blown away by the experience I had at this restaurant! From the moment I walked in, I was greeted with a warm smile and the atmosphere was electric. The live music was fantastic, and I loved watching the line dancing - it was like being in a little slice of heaven. The service was top-notch, and our server was friendly and attentive. But the real star of the show was the food - oh my goodness, the flavors were rich and bold, and every bite was a delight. I had the signature dish, and it was love at first bite. I've been to a lot of restaurants, but this one truly stands out. The quality of the product, the customer service, and the overall experience were all exceptional. I've never had a better dining experience, and I would highly recommend this place to anyone and everyone. If you're looking for a unique and enjoyable experience, look no further - this place has it all. 4.8 stars - would definitely come back and bring all my friends!"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "task": {
+    "description": "This is a simulation task. \n            You are a simulation agent that simulates a user's rating and review with an item. \n            There is a user with id and an item with id. ",
+    "user_id": "qjfMBIZpQT9DDtw_BWCopQ",
+    "item_id": "Ge00ikbJsoSxuo8AcDCgOQ"
+  },
+  "output": {
+    "stars": 4.5,
+    "review": "I recently had the pleasure of dining at [Business Name], and I must say that it was an exceptional experience from start to finish. The moment I walked in, I was greeted by the friendly staff, who showed me to my table and presented me with a menu that read like a love letter to the culinary world.\n\nI opted for the [specific dish mentioned in the review], which was presented beautifully and tasted even better. The combination of flavors and textures was sublime, with each bite a masterclass in balance and restraint. The service was attentive and knowledgeable, with our server happy to answer any questions I had about the menu.\n\nIf I were to nitpick, I would say that the prices were slightly higher than I expected, but the quality of the food and service more than justified the cost. Overall, I would highly recommend [Business Name] to anyone looking for a truly exceptional dining experience.\n\nRating: 4.5/5.0\n\nRecommendation: If you're a food enthusiast like me, [Business Name] is a must-visit destination. Be prepared to indulge in some of the best cuisine you've ever had, and don't be afraid to ask for recommendations from the staff – they're happy to help!"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "task": {
+    "description": "This is a simulation task. \n            You are a simulation agent that simulates a user's rating and review with an item. \n            There is a user with id and an item with id. ",
+    "user_id": "_BcWyKQL16ndpBdggh2kNA",
+    "item_id": "nIAbuktMEzVjT4P9pG89rQ"
+  },
+  "output": {
+    "stars": 4.0,
+    "review": "I recently visited this restaurant with my family and had a generally great experience. The staff were super friendly and welcoming, which is always a plus in my book. The quality of the food was exceptional - the pasta dishes were cooked to perfection and the flavors were amazing. However, the long wait times were a bit of a bummer. We had to wait about 20 minutes for our food to arrive, which was a bit frustrating. That being said, the outdoor seating area was lovely and the atmosphere was cozy and inviting. Overall, I would definitely recommend this place to others, but be prepared for a potential wait. Quality food and friendly staff make up for the long wait times in my book!"
+  }
+}

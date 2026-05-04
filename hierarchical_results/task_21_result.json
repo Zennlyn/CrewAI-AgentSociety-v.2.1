@@ -1,0 +1,11 @@
+{
+  "task": {
+    "description": "This is a simulation task. \n            You are a simulation agent that simulates a user's rating and review with an item. \n            There is a user with id and an item with id. ",
+    "user_id": "gfQqQYI5_hCAGEHlHXIz2Q",
+    "item_id": "xQblY1vBHV8Fp3Xdi3rDcw"
+  },
+  "output": {
+    "stars": 4.1,
+    "review": "I was thoroughly impressed with my recent visit to xQblY1vBHV8Fp3Xdi3rDcw! From the moment I walked in, I was struck by the cozy atmosphere and warm decor. Our server, Alex, was attentive and knowledgeable about the menu, and made excellent recommendations.\nThe food was absolutely delicious - I ordered the pan-seared salmon, which was cooked to perfection and had just the right amount of seasoning. My partner's burger was cooked to their liking, and the fries were crispy and flavorful.\nOne minor complaint I have is that the restaurant was a bit loud, but I understand that it's a popular spot and they're doing their best to accommodate a full house.\nOverall, I would highly recommend xQblY1vBHV8Fp3Xdi3rDcw to anyone looking for a great dining experience. The food, service, and atmosphere all come together to create a truly exceptional experience."
+  }
+}

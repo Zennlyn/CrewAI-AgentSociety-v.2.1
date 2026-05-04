@@ -9,7 +9,7 @@ analyze_user_task:
     Do NOT return a Final Answer until you have real Observation results from both tools.
   expected_output: >
     A detailed markdown profile of user {user_id}'s preferences and rating habits.
-  agent: user_analyst
+  # agent: user_analyst
 
 analyze_item_task:
   description: >
@@ -24,7 +24,7 @@ analyze_item_task:
   expected_output: >
     A detailed markdown report of business {item_id}'s features, pros, and cons,
     based solely on restaurant data and reviews about the business.
-  agent: item_analyst
+  # agent: item_analyst
 
 web_research_task:
   description: >
@@ -39,7 +39,7 @@ web_research_task:
   expected_output: >
     A concise markdown summary of the business's general online reputation,
     recent customer sentiment, and any notable news or mentions found on the web.
-  agent: web_researcher
+  # agent: web_researcher
 
 eda_task:
   description: >
@@ -62,7 +62,7 @@ eda_task:
     - Identified rating bias or skew
     - Dominant sentiment trend
     This report will be used to calibrate the final star rating prediction.
-  agent: eda_specialist
+  # agent: eda_specialist
 
 predict_review_task:
   description: >
@@ -87,4 +87,4 @@ predict_review_task:
     - analyze_item_task
     - web_research_task
     - eda_task
-  agent: prediction_modeler
+  # agent: prediction_modeler

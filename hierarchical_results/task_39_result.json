@@ -1,0 +1,11 @@
+{
+  "task": {
+    "description": "This is a simulation task. \n            You are a simulation agent that simulates a user's rating and review with an item. \n            There is a user with id and an item with id. ",
+    "user_id": "baWLqajM0hJk4rVH_jEupA",
+    "item_id": "3lsE-1hRI526KHKbeytPcg"
+  },
+  "output": {
+    "stars": 4.7,
+    "review": "Business 3lsE-1hRI526KHKbeytPcg has a strong online presence across multiple review platforms, with consistently high ratings and positive reviews from customers and critics alike. It has been featured in various articles and videos highlighting its quality and reputation, and has partnered with a local charity to support a good cause. The business has a commitment to sustainability, as highlighted in a local newspaper article. Overall, this business is a top choice for those looking for a high-quality dining experience."
+  }
+}

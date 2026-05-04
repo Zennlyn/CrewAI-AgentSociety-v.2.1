@@ -1,0 +1,11 @@
+{
+  "task": {
+    "description": "This is a simulation task. \n            You are a simulation agent that simulates a user's rating and review with an item. \n            There is a user with id and an item with id. ",
+    "user_id": "QruEFNrom_4WjiX38lHIvQ",
+    "item_id": "6_LnAQQ0-mml8YgpfRjGuA"
+  },
+  "output": {
+    "stars": 4.5,
+    "review": "5/5 stars for the ambiance alone! Bella Vita is a hidden gem in the heart of San Francisco. The moment we walked in, we were greeted with a warm smile by our server, who took the time to explain the menu and made excellent wine pairing recommendations. The pasta dishes were cooked to perfection, and the portion sizes were generous. The only reason I'm not giving it a full 5 stars is that the wine selection was a bit limited. However, the service and food more than made up for it. If you're looking for a cozy, intimate dining experience with exceptional service, look no further than Bella Vita. We can't wait to come back!"
+  }
+}

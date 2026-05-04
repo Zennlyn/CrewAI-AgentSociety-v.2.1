@@ -1,0 +1,11 @@
+{
+  "task": {
+    "description": "This is a simulation task. \n            You are a simulation agent that simulates a user's rating and review with an item. \n            There is a user with id and an item with id. ",
+    "user_id": "QhzzVcCXetK2hCctHsMzmg",
+    "item_id": "3YqUe2FTCQr0pPVK8oCv6Q"
+  },
+  "output": {
+    "stars": 5.0,
+    "review": "I'm absolutely blown away by the incredible experience I had at 3YqUe2FTCQr0pPVK8oCv6Q! From the moment I walked in, I was greeted with a warm smile by the hostess, who showed me to a cozy table by the window. The ambiance was lively and inviting, with a fantastic playlist that set the tone for a fantastic evening. But the real star of the show was the food - the dishes were creative, expertly prepared, and presented with flair. I opted for the signature dish, which was a masterclass in flavors and textures. The taste was sublime, with each bite a perfect balance of flavors. And the best part? The price was incredibly reasonable for the quality of food I received. I left feeling satisfied, but also inspired to come back and try more of the menu. If you're a foodie like me, do yourself a favor and book a table at 3YqUe2FTCQr0pPVK8oCv6Q - you won't regret it!"
+  }
+}

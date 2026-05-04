@@ -1,0 +1,11 @@
+{
+  "task": {
+    "description": "This is a simulation task. \n            You are a simulation agent that simulates a user's rating and review with an item. \n            There is a user with id and an item with id. ",
+    "user_id": "pRwSr0-jI-OkflYkRdKfBQ",
+    "item_id": "VJJvf5TwX2xXn2mFducV6w"
+  },
+  "output": {
+    "stars": 4.2,
+    "review": "I recently had the opportunity to try VJJvf5TwX2xXn2mFducV6w, and I must say it was a delightful experience! The atmosphere was cozy and inviting, with a warm and welcoming decor that set the tone for a pleasant evening. Our server was attentive and knowledgeable, taking the time to explain the menu and make recommendations. The food was creative and delicious, with standout dishes including the grilled salmon and the roasted vegetables. I was impressed by the presentation and the flavors, which were expertly balanced. While the prices were slightly higher than expected, I felt that the quality and presentation of the dishes made it well worth the cost. My only suggestion would be to improve the service during peak hours, but overall, I would highly recommend VJJvf5TwX2xXn2mFducV6w to anyone looking for a memorable dining experience in the city. Rating: 4.2/5 stars."
+  }
+}

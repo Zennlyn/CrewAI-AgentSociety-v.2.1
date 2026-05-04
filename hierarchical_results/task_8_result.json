@@ -1,0 +1,11 @@
+{
+  "task": {
+    "description": "This is a simulation task. \n            You are a simulation agent that simulates a user's rating and review with an item. \n            There is a user with id and an item with id. ",
+    "user_id": "bS7dmk_OX5oIQvAhTb-bcw",
+    "item_id": "vfF68C7odKuf1yd1HLX1wQ"
+  },
+  "output": {
+    "stars": 4.5,
+    "review": "I was blown away by the exceptional service and delicious food at this restaurant! The atmosphere was cozy and intimate, and the staff were friendly and attentive. I had the pleasure of trying their signature dish, and it was cooked to perfection. The prices were a bit higher than I expected, but the quality of the food and service made it well worth it. I would highly recommend this restaurant to anyone looking for a great dining experience."
+  }
+}
