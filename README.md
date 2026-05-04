@@ -20,7 +20,7 @@ This project integrates the **WWW'25 AgentSociety Challenge** with the **CrewAI*
 | `prediction_modeler` | Synthesizes all inputs and produces the final prediction | — |
 | `manager_agent` | Orchestrates delegation across all agents (hierarchical only) | — |
 
-### RAG Tools
+## RAG Tools
 
 All three RAG tools are backed by ChromaDB collections indexed with **BAAI/bge-small-en-v1.5** embeddings:
 
