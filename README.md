@@ -67,7 +67,7 @@ This project explores three distinct CrewAI architectural patterns to optimize a
 | Architecture | Preference Estimation (%) | Review Generation (%) | Overall Quality (%) |
 |---|---|---|---|
 | Sequential | 81.37 | 79.75 | 80.56 |
-| Collaborative | 0.0 | 0.0 | 0.0 |
+| Collaborative | 80.42 | 82.18 | 81.30 |
 | Hierarchical | 82.44| 79.47 | 80.95 |
 
 ---
